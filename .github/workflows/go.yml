@@ -12,7 +12,7 @@ on:
 jobs:
 
   build:
-    runs-on: riscv-builders,runner=bpi-f3
+    runs-on: riscv-builders
     steps:
     - uses: actions/checkout@v4
 
