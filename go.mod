@@ -1,3 +1,3 @@
-module hello
+module golang.org/x/sys
 
-go 1.21
+go 1.18
